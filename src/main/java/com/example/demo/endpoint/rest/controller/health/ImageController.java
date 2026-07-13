@@ -1,4 +1,4 @@
-package com.example.demo.endpoint.rest.controller;
+package com.example.demo.endpoint.rest.controller.health;
 
 import com.example.demo.entity.ImageSubmission;
 import com.example.demo.service.ImageService;
